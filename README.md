@@ -6,7 +6,7 @@ A responsive Weather Forecast Web Application built using **HTML, CSS, and JavaS
 
 ## 🔗 Live Demo
 
-👉 [https://jeya-surya.github.io/Weather-App/](https://jeya-surya-weather-app.netlify.app/)
+👉 (https://jeya-surya.github.io/Weather-App/)
 
 ---
 
